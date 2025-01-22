@@ -26,6 +26,7 @@
 #include <cstdlib>
 #include "pkcs11test.h"
 
+#include <iomanip>
 #include <set>
 #include <vector>
 
